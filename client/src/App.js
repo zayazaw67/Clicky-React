@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import Navbar from './components/Navbar/Navbar'
+import Card from './components/Cards/Card'
+
 import './App.css';
 import characters from "./characters.json";
 
@@ -17,6 +19,17 @@ class App extends Component {
     return (
       <div className="App">
         <Navbar />
+
+        <div className="row">
+          {this.state.characters.map(cards => (
+            <Card
+              key={cards.id}
+              id={cards.id}
+              name={cards.name}
+              image={cards.image}
+            />
+          ))}
+        </div>
       </div>
     );
   }
