@@ -1,0 +1,10 @@
+.score {
+    width: 100%;
+    color:darkred;
+    font-size: 20px;
+}
+
+.title {
+    float: left;
+}
+

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Mr. Krabs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/1200px-Mr._Krabs.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Mr. Krabs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/1200px-Mr._Krabs.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Mr. Krabs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/1200px-Mr._Krabs.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Mr. Krabs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/1200px-Mr._Krabs.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Mr. Krabs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/1200px-Mr._Krabs.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Mr. Krabs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/1200px-Mr._Krabs.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Mr. Krabs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/1200px-Mr._Krabs.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Mr. Krabs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/1200px-Mr._Krabs.svg.png",
+        "clicked": false
+    }
+]
