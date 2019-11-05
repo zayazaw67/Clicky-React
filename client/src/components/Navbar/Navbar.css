@@ -1,10 +1,15 @@
-.score {
-    width: 100%;
-    color:darkred;
-    font-size: 20px;
+.nav {
+    font-size: 36px;
+    padding: 10px;
 }
 
-.title {
+.score {
+    color:darkred;
+    font-size: 20px;
+    float: right;
+}
+
+.title {  
     float: left;
 }
 

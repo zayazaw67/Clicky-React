@@ -1,11 +1,11 @@
 import React from "react";
-import './Navbar.css';
+import "./Navbar.css";
 
 const Nav = props => (
-    <div className="Nav">
-        <div className="title">{props.children}asdfasdfaf</div>
-        <div className="score">Current Score: {props.score} | Highscore: {props.highscore}</div>
+    <div className="nav">
+        <div className="title">Spongebob Memory Click Game</div>
+        <div className="scores text-right">Score: {props.score} Highscore: {props.highscore}</div>
     </div>
-)
+);
 
 export default Nav;
